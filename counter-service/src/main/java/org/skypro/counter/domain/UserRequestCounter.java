@@ -1,7 +1,7 @@
 package org.skypro.counter.domain;
 
 import org.springframework.stereotype.Component;
-import org.springframework.web.context.annotation.SessionScope;
+import org.springframework.context.annotation.SessionScope;
 
 @Component
 @SessionScope
