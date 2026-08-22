@@ -9,7 +9,10 @@ import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.skypro.counter.domain.Product;
 
+<<<<<<< HEAD
 import java.util.Arrays;
+=======
+>>>>>>> CSHW
 import java.util.Collections;
 import java.util.List;
 
